@@ -8,3 +8,10 @@
 
 # Ignore all databases:
 *.sql
+
+*.zip
+*.rar
+.metadata/.mylyn
+.metadata/.mylyn/*
+.metadata/.plugins
+.metadata/.plugins/*
