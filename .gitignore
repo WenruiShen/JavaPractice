@@ -1,0 +1,10 @@
+# Ignore all compiled class files:
+*.class
+
+# Ignore all log out put:
+*.log
+*.txt
+*.csv
+
+# Ignore all databases:
+*.sql
